@@ -59,15 +59,3 @@ Systems programmer and tinkerer studying at IISER Bhopal. I build things from sc
 [building]  → whatever seems interesting this week
 ```
 
----
-
-## `$ uptime`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhilv777&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilv777&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
-
-</div>
-
