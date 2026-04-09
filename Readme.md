@@ -11,7 +11,7 @@
 
 **`nikhilcodes777`** · IISER Bhopal · India
 
-[![Website](https://img.shields.io/badge/nikhilv777.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://nikhilv777.vercel.app/)
+[![Website](https://img.shields.io/badge/nikhilv777.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://nikhilv.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-nikhilcodes777-181717?style=flat-square&logo=github)](https://github.com/nikhilcodes777)
 
 </div>
@@ -31,7 +31,7 @@ Systems programmer and tinkerer studying at IISER Bhopal. I build things from sc
 | **Neural Network Framework** | `Rust` | Built from scratch — forward/backprop, layers, training loop |
 | **3D Music Visualizer** | `Zig` | Real-time FFT-based 3D visualization |
 | **Game Engine** | `Zig` | Custom renderer, ECS, input, the works |
-| **N-Body Simulator** | `C / Rust` | Gravitational simulation, Barnes-Hut optimization |
+| **N-Body Simulator** | `C` | Gravitational simulation, Barnes-Hut optimization |
 | **Programming Languages** | `Rust · OCaml · C` | Multiple language implementations: lexers, parsers, evaluators |
 | **Automation Toolkit** | `Bash` | Scripts for system and workflow automation |
 
