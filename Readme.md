@@ -9,9 +9,8 @@
 |_| \_|_|_|\_\_| |_|_|_|
 ```
 
-**`nikhilcodes777`** · IISER Bhopal · India
 
-[![Website](https://img.shields.io/badge/nikhilv777.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://nikhilv.dev/)
+[![Website](https://img.shields.io/badge/nikhilv.dev-000?style=flat-square)](https://nikhilv.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-nikhilcodes777-181717?style=flat-square&logo=github)](https://github.com/nikhilcodes777)
 
 </div>
